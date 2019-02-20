@@ -1,0 +1,25 @@
+td a{
+    text-decoration: none;
+    color: orange;
+}
+center h1{
+    color:green;
+}
+
+center h2{
+    color:red;
+}
+td a:hover{
+    color: blue;
+}
+
+button{
+    padding: 10px;
+    background-color: #c6e5c0;
+    border:0px;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: #42aaf4;
+}
